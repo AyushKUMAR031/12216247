@@ -1,0 +1,14 @@
+node_modules/
+loggingMiddleware/node_modules/
+
+
+.DS_Store
+
+.vscode/
+.idea/
+
+dist/
+build/
+temp/
+.cache/
+*.tmp
